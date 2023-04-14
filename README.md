@@ -1,1 +1,1 @@
-[live site](https://image-search-snap.netlify.app/bird).
+[live site](https://image-search-snap.netlify.app).
