@@ -1,11 +1,11 @@
 ## SNAP (image-fetcher) [live site](https://image-search-snap.netlify.app).
 
-## key featurer
+## key feature:
 
     1. fetch image by clicking button or enter a keyword.
     2. view the fetched image
 
-## technology
+## Technology:
 
     1.React for UI
     2.context api to avoid props driling
